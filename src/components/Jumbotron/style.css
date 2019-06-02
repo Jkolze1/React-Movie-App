@@ -1,0 +1,15 @@
+.jumbotron {
+  min-height: 300px;
+  padding-top: 100px;
+  background-color: #3755BE;
+  border-radius:0px;
+}
+h1 {
+  color:white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  background-color: transparent;
+}

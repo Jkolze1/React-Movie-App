@@ -1,0 +1,12 @@
+nav.navbar {
+  margin-bottom: 0;
+}
+.bg-dark {
+  background-color: #343a40 !important;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #727cf5;
+  border-color: #727cf5;
+}
